@@ -9,7 +9,7 @@ int main()
     // With recent C/C++ versions, we can also
     // declare an array of user specified size
    
-      
-    
+      int arr1[11];
+    return 0;
 }
   
