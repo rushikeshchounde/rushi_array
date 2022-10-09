@@ -8,8 +8,9 @@ int main()
     
     // With recent C/C++ versions, we can also
     // declare an array of user specified size
-   //user vector for dyunamic array
+   
       int arr1[20];
+  cout<<"Akriti";
     return 0;
 }
   
